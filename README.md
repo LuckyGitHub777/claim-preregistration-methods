@@ -6,4 +6,4 @@ Start with the [preregistration template](templates/preregistration.md), then th
 
 **No anomalous-information mechanism or human performance is verified by this kit.** It contains no human-subject records or live hidden targets. Real participant studies require independent consent, ethics, privacy, and governance arrangements.
 
-**Use and rights:** The original [all-rights-reserved notice](LICENSE) remains unchanged; public reading does not grant redistribution rights. [MANIFEST.sha256](MANIFEST.sha256) lists exact file hashes.
+**Use and rights:** The [all-rights-reserved notice](LICENSE) applies; public reading does not grant redistribution rights. [MANIFEST.sha256](MANIFEST.sha256) lists exact file hashes.
